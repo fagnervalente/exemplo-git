@@ -1,5 +1,6 @@
 Lista de compras 
 
  [] 2 batatas
- [] 1 laranja
+ [] 3 laranjas
+ [] 5 batatas
  [] 4 morangos
